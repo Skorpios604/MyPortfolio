@@ -81,7 +81,7 @@ p {
 
 .button:hover {
     background-color: rgb(253, 100, 44);
-    box-shadow: 5px 5px 20px rgb(255, 85, 0);
+    box-shadow: 5px 5px 45px rgb(255, 85, 0);
 }
 
 .button:active {
