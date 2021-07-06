@@ -1,9 +1,11 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 
 section {
     background-color: white;
+    
 }
 
 .hero {
@@ -92,11 +94,12 @@ p {
 
 .socials {
     padding-bottom: 200px;
+    padding-right: 30px;
 }
 
 .logo {
     height: 75px;
-    margin: 10px;
+    margin: 20px;
     filter: invert(100%);
 }
 
@@ -187,6 +190,8 @@ a {
 nav {
     display: flex;
     justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 70px;
 }
 
 nav a:hover {
