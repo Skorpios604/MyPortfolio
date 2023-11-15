@@ -161,8 +161,10 @@ p {
        
 .project-image {
     margin-top: 25px;
-    width: 225px;
-    border-radius: 125px;
+    /*width: 225px;*/
+/*     border-radius: 125px; */
+    border-radius: 50%;
+    height: 200px;
     transition: all 0.8s ease; 
 }
 
